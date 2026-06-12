@@ -1,10 +1,10 @@
-# IBM Quantum Global Summer School Projects 2025 ⚛️
+# IBM Quantum Global Summer School Projects 2025
 
 This repository contains my completed coding labs from the **Qiskit Global Summer School (QGSS) 2025**, hosted by **IBM Quantum**. The program provided a deep dive into the foundations and frontiers of quantum computing through a mix of theory and hands-on coding challenges using Qiskit and real quantum hardware.
 
 ---
 
-## 🧪 Labs Overview
+## Labs Overview
 
 ### Lab 1: Quantum Fundamentals — Superposition, Interference & Entanglement
 In this introductory lab, I implemented and visualized the foundational principles of quantum computing:
@@ -36,7 +36,7 @@ This advanced lab focused on protecting quantum information:
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - Qiskit (Terra, Aer, Nature)
 - NumPy, Matplotlib
 - PySCF
@@ -44,4 +44,4 @@ This advanced lab focused on protecting quantum information:
 
 ---
 
-> 🚀 This repository reflects my technical journey through the QGSS 2025 labs. All work is based on publicly available educational content from IBM Quantum and showcases my individual implementation and exploration of the concepts.
+> This repository reflects my technical journey through the QGSS 2025 labs. All work is based on publicly available educational content from IBM Quantum and showcases my individual implementation and exploration of the concepts.
